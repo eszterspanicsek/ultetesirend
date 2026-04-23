@@ -11,7 +11,7 @@ window.WEDDING_APP_DATA = {
     "footer": "",
     "resultLabel": "Az asztalod száma",
     "notFoundTitle": "Nincs találat",
-    "notFoundText": "Ezzel a névvel most nem találtunk vendéget. Kérlek, ellenőrizd az írást, vagy szólj a szervezőknek."
+    "notFoundText": "Ezzel a névvel most nem találtunk vendéget. Kérlek, ellenőrizd, vagy szólj a szervezőknek."
   },
   "theme": {
     "bg": "#f6efe9",
