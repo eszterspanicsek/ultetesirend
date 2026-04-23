@@ -51,7 +51,7 @@ window.WEDDING_APP_DATA = {
       "pageImages": []
     },
     "cocktails": {
-      "title": "",
+      "title": "Koktéllap",
       "description": "",
       "fileName": "koktellap.pdf",
       "dataUrl": "",
