@@ -4,11 +4,11 @@ window.WEDDING_APP_DATA = {
     "date": "2026.09.19",
     "venue": "Lantai Birtok",
     "eyebrow": "Ültetési rend",
-    "title": "Találd meg a helyed",
+    "title": "Találd meg a helyed!",
     "description": "Írd be a neved, és megmutatjuk, melyik asztalnál vár a helyed.",
     "searchPlaceholder": "Teljes név",
     "searchButton": "Keresés",
-    "footer": "Szeretettel várunk benneteket.",
+    "footer": "",
     "resultLabel": "Az asztalod száma",
     "notFoundTitle": "Nincs találat",
     "notFoundText": "Ezzel a névvel most nem találtunk vendéget. Kérlek, ellenőrizd az írást, vagy szólj a szervezőknek."
