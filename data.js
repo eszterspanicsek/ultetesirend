@@ -1,8 +1,8 @@
 window.WEDDING_APP_DATA = {
   "content": {
-    "coupleName": "Eszti & Zoli",
+    "coupleName": "ESZTI & ZOLI",
     "date": "2026.09.19",
-    "venue": "Lantai Birtok",
+    "venue": "LANTAI BIRTOK",
     "eyebrow": "Ültetési rend",
     "title": "Találd meg a helyed!",
     "description": "Írd be a neved, és megmutatjuk, melyik asztalnál vár a helyed.",
