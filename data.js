@@ -14,7 +14,7 @@ window.WEDDING_APP_DATA = {
     "notFoundText": "Ezzel a névvel most nem találtunk vendéget. Kérlek, ellenőrizd, vagy szólj a szervezőknek."
   },
   "theme": {
-    "bg": "#f6efe9",
+    "bg": "#dcccb5",
     "surface": "#fffaf6",
     "primary": "#dc977b",
     "primaryDark": "#dc977b",
